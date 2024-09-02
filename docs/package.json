@@ -9,7 +9,7 @@
   "keywords": [],
   "author": "",
   "dependencies": {
-    "leaflet": "^1.6.0",
+    "leaflet": "^1.9.4",
     "monaco-editor": "^0.18.1",
     "normalize.css": "^8.0.0",
     "react-leaflet": "^2.6.1"
