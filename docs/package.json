@@ -11,7 +11,7 @@
   "dependencies": {
     "leaflet": "^1.6.0",
     "monaco-editor": "^0.18.1",
-    "normalize.css": "^8.0.0",
+    "normalize.css": "^8.0.1",
     "react-leaflet": "^2.6.1"
   }
 }
