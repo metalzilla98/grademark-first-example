@@ -18,7 +18,7 @@
   "homepage": "https://github.com/ashleydavis/grademark-first-example#readme",
   "dependencies": {
     "@plotex/render-image": "^1.0.15",
-    "data-forge": "^1.8.11",
+    "data-forge": "^1.10.2",
     "data-forge-fs": "^0.0.8",
     "data-forge-indicators": "^0.2.5",
     "easy-table": "^1.1.1",
