@@ -10,7 +10,7 @@
   "author": "",
   "dependencies": {
     "leaflet": "^1.6.0",
-    "monaco-editor": "^0.18.1",
+    "monaco-editor": "^0.50.0",
     "normalize.css": "^8.0.0",
     "react-leaflet": "^2.6.1"
   }
